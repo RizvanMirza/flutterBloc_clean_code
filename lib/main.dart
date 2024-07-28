@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:youtube_bloc_clean_coding/bloc/login/login_bloc.dart';
-import 'package:youtube_bloc_clean_coding/repository/auth/login_http_api_repository.dart';
 import 'package:youtube_bloc_clean_coding/repository/auth/login_mock_api_repository.dart';
 import 'package:youtube_bloc_clean_coding/repository/auth/login_repository.dart';
 import 'package:youtube_bloc_clean_coding/repository/movies/movies_http_api_repository.dart';
