@@ -7,6 +7,7 @@ import 'package:youtube_bloc_clean_coding/repository/movies/movies_repository.da
 import 'config/rotues/routes.dart';
 import 'config/rotues/routes_name.dart';
 
+//GetIt library used...
 GetIt getIt = GetIt.instance;
 
 void main() {
